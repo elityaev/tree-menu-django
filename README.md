@@ -47,3 +47,7 @@ python manage.py createsuperuser
 ```
  * создать меню и его элементы через административную панель.
 
+Запустить сервер разработки
+```shell
+python manage.py runserver
+```
